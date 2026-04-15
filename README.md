@@ -18,6 +18,7 @@ These tools follow **AISC 360-16**, **AISC 341-16**, **ASCE 7-16**, and **CBC 20
 
 
 ## Screenshots
+<img width="828" height="617" alt="image" src="https://github.com/user-attachments/assets/4b11fe32-9af6-479d-9cd4-9359dddf659b" />
 
 
 > Run the app and add screenshots here showing the GUI in action.
